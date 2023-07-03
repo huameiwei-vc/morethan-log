@@ -51,7 +51,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: ture,
     config: {
       repo: "morethanmin/morethan-log",
       "issue-term": "og:title",
